@@ -76,9 +76,9 @@
 /home/pmtri/dev/csharp/JwtApplication/obj/Debug/net6.0/scopedcss/bundle/JwtApplication.styles.css
 /home/pmtri/dev/csharp/JwtApplication/obj/Debug/net6.0/JwtApplication.csproj.CopyComplete
 /home/pmtri/dev/csharp/JwtApplication/obj/Debug/net6.0/JwtApplication.dll
-/home/pmtri/dev/csharp/JwtApplication/obj/Debug/net6.0/refint/JwtApplication.dll
 /home/pmtri/dev/csharp/JwtApplication/obj/Debug/net6.0/JwtApplication.pdb
 /home/pmtri/dev/csharp/JwtApplication/obj/Debug/net6.0/JwtApplication.genruntimeconfig.cache
 /home/pmtri/dev/csharp/JwtApplication/obj/Debug/net6.0/ref/JwtApplication.dll
 /home/pmtri/dev/csharp/JwtApplication/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/pmtri/dev/csharp/JwtApplication/bin/Debug/net6.0/.csharpierrc.json
+/home/pmtri/dev/csharp/JwtApplication/bin/Debug/net6.0/ref/JwtApplication.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "x7R2LEqlEObQbQRCDMmJZ340FQ+RHdO0StCkNB8DRZFyIdKUlVgz6AA3qQO5bZ7oC9jmKXZpK1InbSro8R7aOw==",
+  "dgSpecHash": "IY8vgBLVGktIpcIvaaF88ZISm8kax1oh86XgWWANRNaqM44LXMMRNXjAPsjHZ6qvCM1bAJO3xu4/Qa38QV7f0A==",
   "success": true,
   "projectFilePath": "/home/pmtri/dev/csharp/JwtApplication/JwtApplication.csproj",
   "expectedPackageFiles": [
