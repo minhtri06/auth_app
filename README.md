@@ -20,6 +20,7 @@ An access token will expire in 30 seconds. A refresh token will expire in 60 sec
 ## Built with
 
 -   .NET 6.0.403 asp.net api
+-   Sql server (for db)
 
 ## Contact
 
