@@ -19,8 +19,11 @@ An access token will expire in 30 seconds. A refresh token will expire in 60 sec
 
 ## Built with
 
--   .NET 6.0.403 asp.net api
--   Sql server (for db)
+-   .NET v6.0.403 asp.net api
+-   AspNetCore.Authentication.JwtBearer v6.0.6 (For authentication and authorization)
+-   EntityFrameworkCore v7.0.0
+-   EntityFrameworkCore.SqlServer v7.0.0
+-   EntityFrameworkCore.Tools v7.0.0
 
 ## Contact
 
